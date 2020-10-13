@@ -1,0 +1,22 @@
+{
+"data":[
+    {
+        "pic":"1.jpg",
+        "hastags":"#lol",
+        "like":25
+    },
+
+    {
+        "pic":"2.jpg",
+        "hastags":"#skskksksksks",
+        "like":2654
+    },
+
+    {
+        "pic":"3.jpg",
+        "hastags":"#csicska",
+        "like":254
+    }
+
+]
+}
